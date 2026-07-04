@@ -11,4 +11,4 @@ Unlike rigid, pre-built security tools, this custom-engineered script leverages 
 
 ‎## 📺 Usage Preview
 ‎
-‎![Termux Port Scanner Execution](image.jpg)
+‎![Termux Port Scanner Execution](image.png)
